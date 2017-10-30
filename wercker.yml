@@ -4,43 +4,43 @@ build:
     steps:
         - script:
             name: restore
-            cwd: src/StatlerWaldorfCorp.TeamService
+            cwd: StatlerWaldorfCorp.TeamService/src/StatlerWaldorfCorp.TeamService
             code: |
                 dotnet restore
         - script:
             name: build
-            cwd: src/StatlerWaldorf.TeamService
+            cwd: StatlerWaldorfCorp.TeamService/src/StatlerWaldorf.TeamService
             code: |
                 dotnet build
         - script:
             name: publish
-            cwd: src/StatlerWaldorfCorp.TeamService
+            cwd: StatlerWaldorfCorp.TeamService/src/StatlerWaldorfCorp.TeamService
             code: |
                 dotnet publish -o publish
         - script:
             name: test-restore
-            cwd: test/StatlerWaldorfCorp.TeamService.Tests
+            cwd: StatlerWaldorfCorp.TeamService/test/StatlerWaldorfCorp.TeamService.Tests
             code: |
                 dotnet restore
         - script:
             name: test-build
-            cwd: test/StatlerWaldorfCorp.TeamService.Tests
+            cwd: StatlerWaldorfCorp.TeamService/test/StatlerWaldorfCorp.TeamService.Tests
             code: |
                 dotnet build
         - script:
             name: test-run
-            cwd: test/StatlerWaldorfCorp.TeamService.Tests
+            cwd: StatlerWaldorfCorp.TeamService/test/StatlerWaldorfCorp.TeamService.Tests
             code: |
                 dotnet test
         - script:
             name: copy binary
-            cwd: src/StatlerWaldorfCorp.TeamService
+            cwd: StatlerWaldorfCorp.TeamService/src/StatlerWaldorfCorp.TeamService
             code: |
                 cp -r . $WERCKER_OUTPUT_DIR/app
 deploy:
     steps:
         - internal/docker-push
-        cwd: src/StatlerWaldorfCorp.TeamService
+        cwd: StatlerWaldorfCorp.TeamService/src/StatlerWaldorfCorp.TeamService
         username: $USERNAME
         password: $PASSWORD
         repository: dontetcoreservices/teamservice
