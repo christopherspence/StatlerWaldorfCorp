@@ -1,0 +1,10 @@
+/Users/ghaladen/Documents/Code/ASP.NET Projects/microservices-aspnet-core/StatlerWaldorfCorp.TeamService/src/StatlerWaldorfCorp.TeamService/bin/Debug/netcoreapp2.0/StatlerWaldorfCorp.TeamService.deps.json
+/Users/ghaladen/Documents/Code/ASP.NET Projects/microservices-aspnet-core/StatlerWaldorfCorp.TeamService/src/StatlerWaldorfCorp.TeamService/bin/Debug/netcoreapp2.0/StatlerWaldorfCorp.TeamService.runtimeconfig.json
+/Users/ghaladen/Documents/Code/ASP.NET Projects/microservices-aspnet-core/StatlerWaldorfCorp.TeamService/src/StatlerWaldorfCorp.TeamService/bin/Debug/netcoreapp2.0/StatlerWaldorfCorp.TeamService.runtimeconfig.dev.json
+/Users/ghaladen/Documents/Code/ASP.NET Projects/microservices-aspnet-core/StatlerWaldorfCorp.TeamService/src/StatlerWaldorfCorp.TeamService/bin/Debug/netcoreapp2.0/StatlerWaldorfCorp.TeamService.dll
+/Users/ghaladen/Documents/Code/ASP.NET Projects/microservices-aspnet-core/StatlerWaldorfCorp.TeamService/src/StatlerWaldorfCorp.TeamService/bin/Debug/netcoreapp2.0/StatlerWaldorfCorp.TeamService.pdb
+/Users/ghaladen/Documents/Code/ASP.NET Projects/microservices-aspnet-core/StatlerWaldorfCorp.TeamService/src/StatlerWaldorfCorp.TeamService/obj/Debug/netcoreapp2.0/StatlerWaldorfCorp.TeamService.csproj.CoreCompileInputs.cache
+/Users/ghaladen/Documents/Code/ASP.NET Projects/microservices-aspnet-core/StatlerWaldorfCorp.TeamService/src/StatlerWaldorfCorp.TeamService/obj/Debug/netcoreapp2.0/StatlerWaldorfCorp.TeamService.AssemblyInfoInputs.cache
+/Users/ghaladen/Documents/Code/ASP.NET Projects/microservices-aspnet-core/StatlerWaldorfCorp.TeamService/src/StatlerWaldorfCorp.TeamService/obj/Debug/netcoreapp2.0/StatlerWaldorfCorp.TeamService.AssemblyInfo.cs
+/Users/ghaladen/Documents/Code/ASP.NET Projects/microservices-aspnet-core/StatlerWaldorfCorp.TeamService/src/StatlerWaldorfCorp.TeamService/obj/Debug/netcoreapp2.0/StatlerWaldorfCorp.TeamService.dll
+/Users/ghaladen/Documents/Code/ASP.NET Projects/microservices-aspnet-core/StatlerWaldorfCorp.TeamService/src/StatlerWaldorfCorp.TeamService/obj/Debug/netcoreapp2.0/StatlerWaldorfCorp.TeamService.pdb

@@ -1,0 +1,56 @@
+TpTrace Information: 0 : 79792, 2, 2017/10/27, 00:19:28.178, 1765307605741000, testhost.dll, DefaultEngineInvoker: Monitoring parent process with id: '79791'
+TpTrace Information: 0 : 79792, 2, 2017/10/27, 00:19:28.208, 1765307612602000, testhost.dll, DefaultEngineInvoker: Initialize communication on port number: '59721'
+TpTrace Information: 0 : 79792, 2, 2017/10/27, 00:19:28.212, 1765307616413000, testhost.dll, Trying to connect to server on port : 59721
+TpTrace Information: 0 : 79792, 2, 2017/10/27, 00:19:28.223, 1765307628320000, testhost.dll, DefaultEngineInvoker: Start Request Processing.
+TpTrace Information: 0 : 79792, 3, 2017/10/27, 00:19:28.225, 1765307629976000, testhost.dll, Connected to the server successfully 
+TpTrace Information: 0 : 79792, 4, 2017/10/27, 00:19:28.365, 1765307769576000, testhost.dll, Discovery Session Initialize.
+TpTrace Verbose: 0 : 79792, 8, 2017/10/27, 00:19:28.370, 1765307775112000, testhost.dll, TestExecutorService: Loading the extensions
+TpTrace Information: 0 : 79792, 4, 2017/10/27, 00:19:28.377, 1765307781723000, testhost.dll, Execution started.
+TpTrace Verbose: 0 : 79792, 8, 2017/10/27, 00:19:28.378, 1765307782783000, testhost.dll, TestPluginCache: Discovering the extensions using extension path.
+TpTrace Information: 0 : 79792, 8, 2017/10/27, 00:19:28.384, 1765307789009000, testhost.dll, AssemblyResolver: xunit.runner.visualstudio.dotnetcore.testadapter: Resolving assembly.
+TpTrace Information: 0 : 79792, 8, 2017/10/27, 00:19:28.387, 1765307791764000, testhost.dll, AssemblyResolver: xunit.runner.visualstudio.dotnetcore.testadapter: Resolved assembly. 
+TpTrace Information: 0 : 79792, 8, 2017/10/27, 00:19:28.391, 1765307796130000, testhost.dll, AssemblyResolver: xunit.runner.utility.netstandard15: Resolving assembly.
+TpTrace Information: 0 : 79792, 8, 2017/10/27, 00:19:28.393, 1765307797407000, testhost.dll, AssemblyResolver: xunit.runner.utility.netstandard15: Resolved assembly. 
+TpTrace Verbose: 0 : 79792, 8, 2017/10/27, 00:19:28.401, 1765307806330000, testhost.dll, TestPluginCache: Discovered the extensions using extension path ''.
+TpTrace Verbose: 0 : 79792, 8, 2017/10/27, 00:19:28.403, 1765307808018000, testhost.dll, TestPluginCache: Discoverers are 'Xunit.Runner.VisualStudio.TestAdapter.VsTestRunner, xunit.runner.visualstudio.dotnetcore.testadapter, Version=2.2.0.1274, Culture=neutral, PublicKeyToken=8d05b1bb7a6fdb6c'.
+TpTrace Verbose: 0 : 79792, 8, 2017/10/27, 00:19:28.403, 1765307808330000, testhost.dll, TestPluginCache: Executors are ''.
+TpTrace Verbose: 0 : 79792, 8, 2017/10/27, 00:19:28.404, 1765307808534000, testhost.dll, TestPluginCache: Setting providers are ''.
+TpTrace Verbose: 0 : 79792, 8, 2017/10/27, 00:19:28.404, 1765307808719000, testhost.dll, TestPluginCache: Loggers are ''.
+TpTrace Information: 0 : 79792, 8, 2017/10/27, 00:19:28.410, 1765307814573000, testhost.dll, TestPluginManager.CreateTestExtension: Attempting to load test extension: Xunit.Runner.VisualStudio.TestAdapter.VsTestRunner
+TpTrace Verbose: 0 : 79792, 8, 2017/10/27, 00:19:28.410, 1765307815036000, testhost.dll, TestDiscoveryManager: LoadExtensions: Created discoverer Xunit.Runner.VisualStudio.TestAdapter.VsTestRunner
+TpTrace Verbose: 0 : 79792, 8, 2017/10/27, 00:19:28.410, 1765307815268000, testhost.dll, TestExecutorService: Loaded the discoverers
+TpTrace Verbose: 0 : 79792, 8, 2017/10/27, 00:19:28.412, 1765307817201000, testhost.dll, TestPluginCache: Discovering the extensions using extension path.
+TpTrace Verbose: 0 : 79792, 8, 2017/10/27, 00:19:28.414, 1765307818715000, testhost.dll, TestPluginCache: Discovered the extensions using extension path ''.
+TpTrace Verbose: 0 : 79792, 8, 2017/10/27, 00:19:28.414, 1765307818996000, testhost.dll, TestPluginCache: Discoverers are 'Xunit.Runner.VisualStudio.TestAdapter.VsTestRunner, xunit.runner.visualstudio.dotnetcore.testadapter, Version=2.2.0.1274, Culture=neutral, PublicKeyToken=8d05b1bb7a6fdb6c'.
+TpTrace Verbose: 0 : 79792, 8, 2017/10/27, 00:19:28.414, 1765307819206000, testhost.dll, TestPluginCache: Executors are 'executor://xunit/VsTestRunner2'.
+TpTrace Verbose: 0 : 79792, 8, 2017/10/27, 00:19:28.415, 1765307819395000, testhost.dll, TestPluginCache: Setting providers are ''.
+TpTrace Verbose: 0 : 79792, 8, 2017/10/27, 00:19:28.415, 1765307819611000, testhost.dll, TestPluginCache: Loggers are ''.
+TpTrace Information: 0 : 79792, 8, 2017/10/27, 00:19:28.420, 1765307824616000, testhost.dll, TestPluginManager.CreateTestExtension: Attempting to load test extension: Xunit.Runner.VisualStudio.TestAdapter.VsTestRunner
+TpTrace Verbose: 0 : 79792, 8, 2017/10/27, 00:19:28.420, 1765307825045000, testhost.dll, TestExecutorExtensionManager: Loading executor Xunit.Runner.VisualStudio.TestAdapter.VsTestRunner
+TpTrace Verbose: 0 : 79792, 8, 2017/10/27, 00:19:28.420, 1765307825312000, testhost.dll, TestExecutorService: Loaded the executors
+TpTrace Verbose: 0 : 79792, 8, 2017/10/27, 00:19:28.423, 1765307827450000, testhost.dll, TestPluginCache: Discovering the extensions using extension path.
+TpTrace Verbose: 0 : 79792, 8, 2017/10/27, 00:19:28.423, 1765307827889000, testhost.dll, TestPluginCache: Discovered the extensions using extension path ''.
+TpTrace Verbose: 0 : 79792, 8, 2017/10/27, 00:19:28.423, 1765307828120000, testhost.dll, TestPluginCache: Discoverers are 'Xunit.Runner.VisualStudio.TestAdapter.VsTestRunner, xunit.runner.visualstudio.dotnetcore.testadapter, Version=2.2.0.1274, Culture=neutral, PublicKeyToken=8d05b1bb7a6fdb6c'.
+TpTrace Verbose: 0 : 79792, 8, 2017/10/27, 00:19:28.423, 1765307828304000, testhost.dll, TestPluginCache: Executors are 'executor://xunit/VsTestRunner2'.
+TpTrace Verbose: 0 : 79792, 8, 2017/10/27, 00:19:28.424, 1765307828521000, testhost.dll, TestPluginCache: Setting providers are ''.
+TpTrace Verbose: 0 : 79792, 8, 2017/10/27, 00:19:28.424, 1765307828703000, testhost.dll, TestPluginCache: Loggers are ''.
+TpTrace Verbose: 0 : 79792, 8, 2017/10/27, 00:19:28.425, 1765307830154000, testhost.dll, TestExecutorService: Loaded the settings providers
+TpTrace Information: 0 : 79792, 8, 2017/10/27, 00:19:28.426, 1765307830355000, testhost.dll, TestExecutorService: Loaded the extensions
+TpTrace Information: 0 : 79792, 8, 2017/10/27, 00:19:28.445, 1765307849666000, testhost.dll, AssemblyResolver: Microsoft.VisualStudio.TestPlatform.Common.resources: Resolving assembly.
+TpTrace Information: 0 : 79792, 8, 2017/10/27, 00:19:28.446, 1765307850789000, testhost.dll, AssemblyResolver: Microsoft.VisualStudio.TestPlatform.Common.resources: Resolving assembly.
+TpTrace Information: 0 : 79792, 8, 2017/10/27, 00:19:28.467, 1765307872106000, testhost.dll, TestDiscoveryManager: Discovering tests from sources /Users/ghaladen/Documents/Code/ASP.NET Projects/microservices-aspnet-core/StatlerWaldorfCorp.TeamService/tests/StatlerWaldorfCorp.TeamService.Tests/bin/Debug/netcoreapp2.0/StatlerWaldorfCorp.TeamServiceTests.dll
+TpTrace Verbose: 0 : 79792, 8, 2017/10/27, 00:19:28.473, 1765307878160000, testhost.dll, BaseRunTests.RunTestInternalWithExecutors: Running tests for executor://xunit/VsTestRunner2
+TpTrace Information: 0 : 79792, 8, 2017/10/27, 00:19:29.051, 1765308456048000, testhost.dll, AssemblyResolver: xunit.runner.utility.netstandard15: Resolving assembly.
+TpTrace Information: 0 : 79792, 8, 2017/10/27, 00:19:29.052, 1765308456460000, testhost.dll, AssemblyResolver: xunit.runner.utility.netstandard15: Resolved from cache.
+TpTrace Information: 0 : 79792, 8, 2017/10/27, 00:19:29.056, 1765308460617000, testhost.dll, AssemblyResolver: xunit.runner.reporters.netstandard15: Resolving assembly.
+TpTrace Information: 0 : 79792, 8, 2017/10/27, 00:19:29.057, 1765308461634000, testhost.dll, AssemblyResolver: xunit.runner.reporters.netstandard15: Resolved assembly. 
+TpTrace Information: 0 : 79792, 8, 2017/10/27, 00:19:29.139, 1765308543619000, testhost.dll, [xUnit.net 00:00:00.6615410]   Discovering: StatlerWaldorfCorp.TeamServiceTests
+TpTrace Information: 0 : 79792, 8, 2017/10/27, 00:19:29.217, 1765308622179000, testhost.dll, [xUnit.net 00:00:00.7417250]   Discovered:  StatlerWaldorfCorp.TeamServiceTests
+TpTrace Information: 0 : 79792, 8, 2017/10/27, 00:19:29.264, 1765308668905000, testhost.dll, [xUnit.net 00:00:00.7884690]   Starting:    StatlerWaldorfCorp.TeamServiceTests
+TpTrace Warning: 0 : 79792, 11, 2017/10/27, 00:19:29.417, 1765308821423000, testhost.dll, InProgressTests is null
+TpTrace Information: 0 : 79792, 8, 2017/10/27, 00:19:29.419, 1765308823403000, testhost.dll, [xUnit.net 00:00:00.9429540]   Finished:    StatlerWaldorfCorp.TeamServiceTests
+TpTrace Verbose: 0 : 79792, 8, 2017/10/27, 00:19:29.421, 1765308825562000, testhost.dll, TestExecutionManager.RunTestInternalWithExecutors: Completed running tests for executor://xunit/VsTestRunner2
+TpTrace Information: 0 : 79792, 8, 2017/10/27, 00:19:29.425, 1765308829927000, testhost.dll, Sending test run complete
+TpTrace Verbose: 0 : 79792, 8, 2017/10/27, 00:19:29.473, 1765308878049000, testhost.dll, BaseRunTests.RunTests: Run is complete.
+TpTrace Information: 0 : 79792, 4, 2017/10/27, 00:19:29.532, 1765308936839000, testhost.dll, Session End message received from server. Closing the connection.
+TpTrace Information: 0 : 79792, 4, 2017/10/27, 00:19:29.541, 1765308946032000, testhost.dll, Closing the connection !
