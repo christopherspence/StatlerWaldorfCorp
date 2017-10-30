@@ -40,11 +40,11 @@ build:
 deploy:
     steps:
         - internal/docker-push
-        cwd: StatlerWaldorfCorp.TeamService/src/StatlerWaldorfCorp.TeamService
-        username: $USERNAME
-        password: $PASSWORD
-        repository: dontetcoreservices/teamservice
-        registry: https://registry.hub.docker.com
-        entrypoint: "/pipeline/source/app/docker_entrypoint.sh"
+            cwd: StatlerWaldorfCorp.TeamService/src/StatlerWaldorfCorp.TeamService
+            username: $USERNAME
+            password: $PASSWORD
+            repository: dontetcoreservices/teamservice
+            registry: https://registry.hub.docker.com
+            entrypoint: "/pipeline/source/app/docker_entrypoint.sh"
     
             
